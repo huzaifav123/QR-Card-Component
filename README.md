@@ -20,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 In this Project i build Responsive QR Code Scanner Card In HTML And CSS 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://github.com/huzaifav123/QR-Card-Component.git)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
