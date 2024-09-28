@@ -21,7 +21,7 @@ In this Project i build Responsive QR Code Scanner Card In HTML And CSS
 ### Links
 
 - Solution URL: (https://github.com/huzaifav123/QR-Card-Component.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://66f7be55a744c294d3936643--bespoke-marzipan-6919be.netlify.app/)
 
 ## My process
 
